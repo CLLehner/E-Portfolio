@@ -216,6 +216,14 @@ nav {
 
 /* PROJECTS */
 
+.project {
+    margin-bottom: 135px;
+}
+
+.project:last-child {
+    margin-bottom: 40px;
+}
+
 .project_img {
     width: 100%;
     transition: all 500ms ease;
